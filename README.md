@@ -7,3 +7,6 @@
   2. Extract the folder into your "VST Plugins" folder (Or whichever folder you have your VST plugins installed)
   3. Be sure to rescan for VST plugins in your DAW
   4. That should be it!
+
+## Viewing Project Files
+  I use the JUCE Framework for developing my plugins, so if you wish to view the project files I recommend installing the JUCE Framework for yourself!
